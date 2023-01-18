@@ -25,7 +25,7 @@ public class Ejemplo02 {
         int suma = obtnerSuma(valorA, valorB);
         System.out.println("Ingrese el limite");
         limite = entrada.nextInt();
-        if (limite <0 ) {
+        if (limite < 0 ) {
             System.out.println("Error");
             
         }
