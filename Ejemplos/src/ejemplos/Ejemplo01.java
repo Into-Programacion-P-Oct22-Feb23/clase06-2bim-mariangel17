@@ -16,6 +16,7 @@ public class Ejemplo01 {
     
     public static void main(String[] args) {
         // TODO code application logic here
+        
         int valorA = obtenerNumero(); // 3
         int valorB = obtenerNumero(); // 2
         int suma = obtnerSuma(valorA, valorB);
